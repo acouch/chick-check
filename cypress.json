@@ -1,0 +1,5 @@
+{
+  "screenshotsFolder": "./cypress/snapshots/actual",
+  "trashAssetsBeforeRuns": true,
+  "baseUrl": "https://tools.usps.com/go/TrackConfirmAction.action?tLabels=9481716901036383533440"
+}
